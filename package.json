@@ -1,0 +1,27 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello": "echo Hello world"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larstp/test-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larstp/test-repo/issues"
+  },
+  "homepage": "https://github.com/larstp/test-repo#readme",
+  "dependencies": {
+    "react": "^19.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.39.1"
+  }
+}
